@@ -1,1 +1,1 @@
-# Hello-world
+ Whether the time format is 12 hours or not, can be found out by using list slicing. Check if last two elements are PM, then simply add 12 to them. If AM, then don’t add. Remove AM/PM from the updated time.
